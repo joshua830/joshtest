@@ -1,5 +1,4 @@
 // my first program by joshua quick
-//
 
 #include <iostream>
 
